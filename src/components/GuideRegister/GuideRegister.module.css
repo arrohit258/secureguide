@@ -1,0 +1,31 @@
+.form {
+    /* float: left; */
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 36%;
+    border: 1px solid black;
+    padding: 2%;
+    height: 50%;
+    border-radius: 5px;
+  }
+  
+  .main {
+    display: inline;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .inputField {
+    font-size: large;
+    padding: 1%;
+    width: 93%;
+    margin-bottom: 5%;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .submitBtn {
+    font-size: large;
+    width: 40%;
+    padding: 3%;
+  }

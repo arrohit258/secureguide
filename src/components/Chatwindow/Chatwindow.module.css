@@ -1,0 +1,47 @@
+.chatSupport {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 26%;
+    border: 1px solid black;
+    padding: 2%;
+    height: 350px;
+    border-radius: 5px;
+    overflow-y: scroll;
+  }
+  
+  .inputField {
+    width: 38%;
+    margin-top: 1%;
+    margin-left: 26%;
+    margin-right: 2%;
+    padding: 1%;
+    overflow-y: scroll;
+    font-size: medium;
+  }
+  
+  .sendBtn {
+    font-size: large;
+    padding: 1%;
+  }
+  
+  .reciever {
+    margin-top: 2%;
+    float: left;
+    padding: 1%;
+    border: 2px solid grey;
+    width: 30%;
+    clear: both;
+    border-radius: 2%;
+    font-weight: 600;
+  }
+  
+  .sender {
+    margin-top: 2%;
+    float: right;
+    padding: 1%;
+    border: 2px solid grey;
+    width: 30%;
+    clear: both;
+    border-radius: 2%;
+    font-weight: 600;
+  }

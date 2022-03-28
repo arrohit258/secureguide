@@ -1,0 +1,14 @@
+.center {
+   
+    /* align-items: center!important; */
+    justify-content: center!important;
+    display: flex!important;
+    /* padding: 0 0 0 0!important; */
+    
+  }
+
+  .size150{
+   
+    display: flex!important;
+
+  }
